@@ -44,6 +44,24 @@
 
 -Tránh sử dụng những từ có 2 nghĩa, hoặc sử dụng 2 từ cùng một nghĩa, điều này làm cho việc code dễ hiểu và đỡ rắc rối hơn.
 
+### 2. Functions
+
+**Nhỏ**
+
+-Luật đầu tiên là hàm phải nhỏ, luật thứ  2 là hàm phải nhỏ hơn nữa. Một hàm tốt chỉ bao gồm từ 20-30 dòng code. Hàm càng dài khả năng sinh ra lỗi sẽ càng cao.
+
+**Chỉ làm một việc**
+
+-Giúp tái sử dụng các hàm một cách tiện lợi, không những thế việc kiểm tra lỗi sẽ nhanh hơn.
+
+**Tham số cho hàm**
+
+-Không nên có quá 3 tham số đầu vào cho một hàm, việc hiểu một hàm với 1 tham số sẽ dễ dàng hơn nhiều so với việc một hàm có 2 tham số. 
+
+-Việc đối tượng hóa tham số không phải là một cách gian lận để giảm tham số mà còn giúp cho code dễ hiểu hơn.
+
+
+
 
 
 
